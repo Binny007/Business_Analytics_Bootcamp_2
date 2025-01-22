@@ -27,13 +27,16 @@
     --> Explanation of posterior probability, priors, and how Bayesian methods differ from traditional frequentist approaches.
    
     --> Learn why Bayesian methods are powerful for decision-making in uncertain environments.
+   
 
 7. Bayesian Statistics
+
     --> Dive into the foundation of Bayesian statistics, including the Bayes theorem formula, alpha/beta priors, and how priors influence posterior distributions.
+   
     --> Examples of beta distributions and their applications in A/B testing.
 
    
-8. Proportions Test
+9. Proportions Test
 
     --> Understand how to test for differences in proportions between control and treatment groups.
    
